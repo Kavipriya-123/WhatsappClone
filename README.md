@@ -38,7 +38,7 @@ A full-stack WhatsApp Web clone built with React, Node.js, Socket.IO, and MongoD
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-clone.git
+git clone https://github.com/Kavipriya-123/WhatsappClone.git
 cd whatsapp-clone
 ```
 
